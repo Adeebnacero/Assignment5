@@ -18,7 +18,7 @@ public abstract class NextOfKin extends PlayerFactory{
 
     public String getContactName() {
         return contactName;
-    }
+    }git st
 
     public NextOfKin setContactName(String contactName) {
         this.contactName = contactName;
